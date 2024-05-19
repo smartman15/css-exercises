@@ -8,12 +8,12 @@
     font-size: 36px;
 }
 
-.odd.cooler{
+.odd.cooler,
+#num4{
     font-size: 24px;
 }
 
 #num4{
     background-color: rgb(44, 247, 44);
-    font-size: 24px;
     font-weight: bold;
 }
