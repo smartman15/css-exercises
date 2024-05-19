@@ -7,3 +7,9 @@
 .second{
     background-color: rgb(255, 231, 18);
 }
+
+.first,
+.second{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
