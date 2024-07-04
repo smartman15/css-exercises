@@ -83,6 +83,7 @@ button.cancel {
   gap: 5px;
   flex-wrap: wrap;
   flex-direction: row;
+  font-weight: bold;
 }
 
 .container.button{
