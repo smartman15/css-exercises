@@ -84,6 +84,7 @@ button.cancel {
   flex-wrap: wrap;
   flex-direction: row;
   font-weight: bold;
+  font-size: 20px;
 }
 
 .container.button{
