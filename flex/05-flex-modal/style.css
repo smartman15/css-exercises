@@ -75,9 +75,6 @@ button.cancel {
   display: flex;
 }
 
-.container.icon{
-  justify-content: start;
-}
 
 .container.stuff{
   flex-wrap: wrap;
