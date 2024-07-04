@@ -83,3 +83,6 @@ button.cancel {
   flex-direction: row;
 }
 
+.container.button{
+  flex-direction: row;
+}
