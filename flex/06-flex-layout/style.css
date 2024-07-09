@@ -39,14 +39,16 @@ input {
   justify-content: space-between;
 }
 
-.header .left-links{
+.header .left-links,
+.header .right-links{
   display: flex;
   gap: 20px;
+}
+
+.header .left-links{
   padding-left: 20px;
 }
 
 .header .right-links{
-  display: flex;
-  gap: 20px;
   padding-right: 20px;
 }
