@@ -40,7 +40,9 @@ input {
 }
 
 .header .left-links,
-.header .right-links{
+.header .right-links,
+.footer .left-links,
+.footer .right-links{
   display: flex;
   gap: 20px;
 }
