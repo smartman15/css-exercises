@@ -52,3 +52,10 @@ input {
 .header .right-links{
   padding-right: 20px;
 }
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
