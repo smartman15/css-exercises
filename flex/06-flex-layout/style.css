@@ -36,9 +36,11 @@ input {
 
 .header{
   display: flex;
+  justify-content: space-between;
 }
 
 .header .left-links{
   display: flex;
   gap: 20px;
+  padding-left: 20px;
 }
