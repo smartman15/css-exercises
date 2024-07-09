@@ -44,3 +44,9 @@ input {
   gap: 20px;
   padding-left: 20px;
 }
+
+.header .right-links{
+  display: flex;
+  gap: 20px;
+  padding-right: 20px;
+}
