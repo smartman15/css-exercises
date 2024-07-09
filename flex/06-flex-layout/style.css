@@ -34,7 +34,8 @@ input {
   width: 400px;
 }
 
-.header{
+.header,
+.footer{
   display: flex;
   justify-content: space-between;
 }
@@ -62,6 +63,3 @@ input {
   align-items: center;
 }
 
-.footer{
-  display: flex;
-}
