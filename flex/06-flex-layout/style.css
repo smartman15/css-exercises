@@ -37,3 +37,8 @@ input {
 .header{
   display: flex;
 }
+
+.header .left-links{
+  display: flex;
+  gap: 20px;
+}
