@@ -48,7 +48,8 @@ input {
   gap: 20px;
 }
 
-.header .left-links{
+.header .left-links, 
+.footer .left-links{
   padding-left: 20px;
 }
 
