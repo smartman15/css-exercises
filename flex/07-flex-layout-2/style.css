@@ -27,6 +27,7 @@ body {
   box-sizing: border-box;
   display: flex;
   width: 300px;
+  flex-shrink: 0;
 }
 
 .card {
