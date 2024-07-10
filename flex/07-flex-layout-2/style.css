@@ -52,9 +52,16 @@ ul{
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 48px;
+  width: 300px;
 }
 
 .container{
   display: flex;
   flex-grow: 1;
+}
+
+.container.card{
+  display: flex;
+  flex-wrap: wrap;
+  flex: auto;
 }
